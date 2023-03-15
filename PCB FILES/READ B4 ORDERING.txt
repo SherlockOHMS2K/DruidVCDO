@@ -1,0 +1,3 @@
+After you upload your Gerber File and select your quantity & color, leave all other options defalt except REMOVE ORDER NUMBER select SPECIFY A LOCATION. If you don't you can run the risk of them printing the order info on the front of the Front Panel.
+
+SEE JLCPCB_ORDER_INFO.png

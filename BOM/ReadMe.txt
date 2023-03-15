@@ -1,0 +1,1 @@
+Use links in the BOM to navigate to the website for the part. Use the Supplier Part number to check stock.
